@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Game from './container/game'
+import Game from './container/Game'
 
 function App() {
   return (
